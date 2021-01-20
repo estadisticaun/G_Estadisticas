@@ -5,7 +5,7 @@ bookdown::gitbook:
       before: |
        <li><center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_la_Universidad_Nacional_de_Colombia.svg/1200px-Logotipo_de_la_Universidad_Nacional_de_Colombia.svg.png"  height=50 width="50"> <a href="./">Guía Metodológica</a></center></li>
       after: |
-        <li><center><a href="http://estadisticas.unal.edu.co/home/" target="blank"> Estadísticas institucionales </br> UNAL</a></center></li>
+        <li><center><a href="http://estadisticas.unal.edu.co/home/" target="blank"> Sistema Estadístico Institucional </br> UNAL</a></center></li>
     download: ["pdf", "epub"]
 bookdown::pdf_book:
   includes:
