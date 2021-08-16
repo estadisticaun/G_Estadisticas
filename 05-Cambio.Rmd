@@ -1,2 +1,5 @@
 # ***Gestión del Cambio*** 
 
+La producción de estadísticas institucionales, a pesar de su historia y trayectoria, está expuesta en la actualidad a un número importante de cambios a nivel conceptual, metodológico, tecnológico, de producción estadística y de gestión de la cultura estadística existente a nivel institucional, que exige la definición de un proceso que le permita adaptarse de manera rápida a los cambios que exige la sociedad.
+
+Por lo anterior, se propone la creación de un procedimiento a nivel de la Universidad Nacional de Colombia que le permita a la gestión estadística institucional adaptarse de manera rápida a los cambios que exige la modernidad.

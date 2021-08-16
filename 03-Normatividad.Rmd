@@ -1,2 +1,18 @@
-# ***Referentes Normativos***
+# ***Referentes Normativos y Conceptuales***
 
+La presente guia se basa y tiene en cuenta los siguienets referentes institucionales y normativos en materia de gestión de los datos a nivel institucional.
+
+1. *[Sistema Estadístico Nacional](https://www.dane.gov.co/index.php/sistema-estadistico-nacional-sen)*
+2. *[Modelo Integrado de Planeación y Gestión - MIPG](https://www.funcionpublica.gov.co/web/mipg)*
+3. *[Caracterización de Usuarios y Partes Interesadas](http://siga.unal.edu.co/images/Modulos/Ova/Caracterizacin-de-usuarios-y-partes-interesadas.pdf)*
+4. *[Norma Técnica de Calidad del Proceso Estadístico - NTCPE 1000](https://www.dane.gov.co/files/sen/normatividad/NTC-Proceso-Estadistico-PE-1000-2020.pdf)*
+5. *[Ley de Protección de Datos - Habeas Data](https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=49981)*
+6. *[Ley Ley de Transparencia y del Derecho de Acceso a la Información Pública Nacional](https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=56882)*
+7. *[Política Nacional de Datos Abiertos](https://www.datos.gov.co/)*
+8. *[Sistema de Ética Estadística del DANE - SETE](https://www.sen.gov.co/files/sen/Documento%20Maestro%20SETE.pdf)*
+9. *[Documentación de Registros Administrativos - DANE](https://www.dane.gov.co/index.php/sistema-estadistico-nacional-sen/registros-administrativos/documentacion-registros-administrativos)*
+10. *[Registros Administrativos y Operaciones Estadísticas de la Función Pública](https://www.funcionpublica.gov.co/VisualSIE/faces/javax.faces.resource/docs/Documento_operaciones_estadisticas_y_registros_administrativos.pdf)*
+11. *[Gestión de la Información Cuantitativa en las Universidades](https://estadisticaun.github.io/L_Conceptual/)*
+12. *[Lineamientos para la medición de la gestión por procesos en la Universidad Nacional de Colombia](https://estadisticaun.github.io/L_procesos/)*
+13. *[Código Nacional de Buenas Prácticas del Sistema Estadístico Nacional](https://www.dane.gov.co/files/sen/bp/Codigo_nal_buenas_practicas.pdf)*
+14. *[Geoportal DANE](https://geoportal.dane.gov.co/)*

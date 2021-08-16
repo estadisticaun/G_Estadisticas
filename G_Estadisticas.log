@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.8.15)  16 AUG 2021 12:36
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.8.15)  16 AUG 2021 17:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1044,13 +1044,13 @@ Capítulo 4.
 ]
 Capítulo 5.
 [17] [18]
-Overfull \hbox (28.72823pt too wide) in paragraph at lines 249--250
+Overfull \hbox (28.72823pt too wide) in paragraph at lines 294--295
 \TU/lmr/m/n/10 institucional, en el contexto de la universidad pública, son de 
 tres tipos: temporales, geográficas/institucionales
  []
 
 [19] [20] [21] [22]
-Underfull \hbox (badness 1194) in paragraph at lines 421--422
+Underfull \hbox (badness 1194) in paragraph at lines 466--467
 []\TU/lmr/m/n/10 El procesamiento de los registros administrativos con el fin d
 e generar/disponer estadísticas
  []
@@ -1107,12 +1107,12 @@ LaTeX Info: Redefining \sffamily on input line 20.
 LaTeX Info: Redefining \ttfamily on input line 20.
 )
 Package rerunfilecheck Info: File `G_Estadisticas.out' has not changed.
-(rerunfilecheck)             Checksum: 645EF38B3379BD9AAECF9E7C7F8A4869;1681.
+(rerunfilecheck)             Checksum: D8CB9918911E74ECBDEC68A8DF624517;1762.
  ) 
 Here is how much of TeX's memory you used:
  18974 strings out of 478475
- 343291 string characters out of 5857860
- 841174 words of memory out of 5000000
+ 343306 string characters out of 5857860
+ 841204 words of memory out of 5000000
  38982 multiletter control sequences out of 15000+600000
  409897 words of font info for 82 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191

@@ -1,2 +1,5 @@
 # **Campo de Aplicación**
 
+Esta guía metodológica aplica para la producción de estadísticas oficiales a nivel estratégico en la Universidad Nacional de Colombia. La misma, en principio, no se recomienda para ser usada en la construcción de indicadores de gestión para cuyo caso existe una guía específica. 
+
+Esta guís, junto con la guía para la construcción de [indicadores de proceso](https://estadisticaun.github.io/G_Procesos/), hacen parte de los aportes metodológicos que ofrece la Universidad en pro del fortalecimiento de la actividad estadística a nivel institucional.
