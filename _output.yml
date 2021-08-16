@@ -8,9 +8,11 @@ bookdown::gitbook:
         <li><center><a href="http://estadisticas.unal.edu.co/home/" target="blank"> Sistema Estadístico Institucional </br> UNAL</a></center></li>
     download: ["pdf", "epub"]
 bookdown::pdf_book:
+  extra_dependencies: ["float"]
   includes:
     in_header: preamble.tex
   latex_engine: xelatex
   citation_package: natbib
   keep_tex: yes
+  papersize: a5
 bookdown::epub_book: default

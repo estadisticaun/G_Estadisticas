@@ -1,0 +1,30 @@
+# ***Definiciones***
+
+A continuación, se presentan las definiciones que deben ser tenidas en cuenta a la hora de estudiar e implementar la presente guía metodológica.
+
+- **Estadísticas**
+
+Las estadísticas son cifras de interés social e institucional las cuales se caracterizan, en el ámbito de lo público, principalmente por: ser construidas a partir de información poblacional disponible en registros administrativos y censos o inferida a través de estimaciones provenientes de muestras probabilísticas o no probabilísticas; permitir caracterizar/desagregar temporalmente, temáticamente y geográficamente rasgos de interés de los individuos que conforman las poblaciones o muestras de interés; hacer uso conceptos, estándares y nomenclaturas internacionales, nacionales e institucionales que favorezcan su interpretación y comparación; estar conformadas por cifras agregadas de naturaleza descriptiva derivadas de conteos o de mediciones; representar el presente y el pasado a través de la disposición de series de tiempo; ser susceptibles de ser representadas de manera tabular y gráfica (visualización); estar orientadas y delimitadas por normas; ser fácilmente interpretables y accesibles a través de múltiples mecanismos de disposición y divulgación; ser inclusivas; ser construidas a través de un proceso estadístico y finalmente, a partir de la comparación entre e intra poblaciones de las cifras agregadas, facilitar la creación de indicadores estadísticos.
+
+- **Estadísticas Oficiales**
+
+Las estadísticas oficiales incluyen el subconjunto de estadísticas disponibles a nivel nacional y en cada una de las sedes de la Universidad asociadas a poblaciones de interés para la totalidad de procesos y acciones institucionales. Estas, más que emerger y pertenecer a un proceso particular, son útiles y requeridas por la totalidad de los procesos existentes a nivel institucional. Entre las principales categorías que agrupan las estadísticas oficiales de la Universidad tenemos: información de programas académicos, aspirantes y admitidos, matriculados, graduados, docentes, administrativos, investigación, extensión e innovación, capacidad financiera, etc. Las construcción, disposición y actualización de las estadísticas oficiales de la Universidad Nacional de Colombia, así como la disposición de los lineamientos conceptuales, metodológicos y técnicos requeridos para su gestión, se encuentra a cargo de las áreas de estadística adscritas a las direcciones de planeación y estadística en los niveles nacional y sede. La información estadística oficial de la Universidad, en su mayoría, se encuentra disponible o accesible a través del sitio web institucional de estadísticas oficiales (http://estadisticas.unal.edu.co/home/).
+
+- **Indicadores Estadísticos**
+
+Los indicadores estadísticos conservan, en términos generales, los mismos atributos que las estadísticas, pero a diferencia de estas, este tipo de mediciones requieren de un trabajo técnico de mayor complejidad que el exigido en las estadísticas. Este tipo de mediciones requieren de fórmulas o de procedimientos metodológicos para efectos del cálculo de la medida de interés y pueden ser de naturaleza simple como las tasas, las razones y las proporciones o complejos como los índices y las escalas.
+
+- **Indicadores de Gestión**
+
+Los indicadores de gestión, a diferencia de las estadísticas y los indicadores estadísticos, se caracterizan porque miden el cumplimiento de una apuesta de futuro (meta) o el rango de desempeño asociado a una acción o conjunto de acciones pertenecientes a una política, proyecto o proceso institucional. Para su construcción y medición se requiere la disposición de líneas de base y, dependiendo del tipo de meta o rango de desempeño a ser monitoreado, pueden ser de diferentes tipos: flujo, acumulación, capacidad, reducción, reducción por periodo, stock. Los elementos conceptuales, metodológicos y técnicos que constituyen los indicadores de gestión o cumplimiento difieren de manera significativa respecto de los constitutivos de las estadísticas y los indicadores estadísticos. 
+
+- **Variable**
+
+Es una característica asociada a un ámbito de interés que puede variar y cuya variación adopta diversos posibles valores. Los valores asociados a una variable pueden medirse u observarse de manera directa       –variables observables- o indirecta – variables no observables-.
+
+- **Variables observables**-
+
+Cualquier atributo o característica de fácil definición, medición y consenso dentro de un área, disciplina o teoría científica. Hacen referencia a algo que se sabe que existe y que se puede observar, manipular y medir de manera directa. La edad, el sexo o la profesión de una persona, son ejemplos de variables observables y de interés en el ámbito de la educación o las ciencias de la salud, por ejemplo.
+
+- **Variables no observables** 
+Cualquier entidad o categoría conceptual de difícil definición, medición y consenso dentro de un área, disciplina o teoría científica. También conocidas como variables latentes o constructos, hacen referencia a algo que se sabe que existe pero que no se puede observar, manipular y medir de manera directa –no observables-. La inteligencia, la personalidad, la creatividad, el bienestar individual o social, son algunos ejemplos de constructos de interés académico para disciplinas como la psicología, la economía o la sociología; en contraste, por ejemplo, la satisfacción del usuario, lo es para el ámbito de la gestión administrativa. 
