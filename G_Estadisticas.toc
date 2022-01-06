@@ -7,9 +7,9 @@
 \contentsline {chapter}{\numberline {5}\textbf {\emph {Proceso Estadístico}}}{17}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Usuarios}{17}{section.5.1}%
 \contentsline {section}{\numberline {5.2}Requisitos}{18}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Registros Administrativos}{22}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Procesamiento}{23}{section.5.4}%
-\contentsline {section}{\numberline {5.5}Comunicación}{24}{section.5.5}%
+\contentsline {section}{\numberline {5.3}Registros Administrativos}{23}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Procesamiento}{24}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Comunicación}{25}{section.5.5}%
 \contentsline {section}{\numberline {5.6}Cultura}{25}{section.5.6}%
 \contentsline {chapter}{\numberline {6}\textbf {\emph {Gestión del Cambio}}}{27}{chapter.6}%
 \contentsline {chapter}{Referencias}{29}{chapter*.3}%

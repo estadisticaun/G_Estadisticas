@@ -4,10 +4,21 @@
 %
 \documentclass[
 ]{book}
+\title{Estadísticas Oficiales Institucionales}
+\usepackage{etoolbox}
+\makeatletter
+\providecommand{\subtitle}[1]{% add subtitle to \maketitle
+  \apptocmd{\@title}{\par {\large #1 \par}}{}{}
+}
+\makeatother
+\subtitle{Guía Metodológica}
+\author{Dirección Nacional de Planeación y Estadística Oficina Nacional de Estadística}
+\date{2022-01-06}
+
+\usepackage{amsmath,amssymb}
 \usepackage{lmodern}
-\usepackage{amssymb,amsmath}
-\usepackage{ifxetex,ifluatex}
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+\usepackage{iftex}
+\ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
@@ -41,7 +52,8 @@
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
 \urlstyle{same} % disable monospaced font for URLs
-\usepackage{longtable,booktabs}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
 \usepackage{etoolbox}
 \makeatletter
@@ -80,19 +92,11 @@
 \fi
 
 \usepackage{float}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
-
-\title{Estadísticas Oficiales Institucionales}
-\usepackage{etoolbox}
-\makeatletter
-\providecommand{\subtitle}[1]{% add subtitle to \maketitle
-  \apptocmd{\@title}{\par {\large #1 \par}}{}{}
-}
-\makeatother
-\subtitle{Guía Metodológica}
-\author{Dirección Nacional de Planeación y Estadística Oficina Nacional de Estadística}
-\date{2021-08-16}
 
 \begin{document}
 \maketitle
@@ -110,7 +114,7 @@
 \hypertarget{intro}{%
 \chapter{\texorpdfstring{\textbf{Introducción}}{Introducción}}\label{intro}}
 
-Las sosiedades modernas, a diferenencia de sus antepasados, sufren un exceso de información y sin embargo requieren cada vez más de esta para convivir de manera eficiente. Este fenómeno, no sólo atañe a los individuos sino que cada vez y, con mayor frecuencia, se traslada a sus instituciones.
+Las sociedades modernas, a diferenencia de las antepasadas, sufren un exceso de información y sin embargo requieren cada vez más de esta para convivir de manera eficiente. Este fenómeno, no sólo atañe a los individuos sino que cada vez y, con mayor frecuencia, se traslada a sus instituciones.
 
 La gestión de la información a nivel de las entidades públicas ha adquirido un papel protagónico durante los últimos años. Muestra de ello, por ejemplo, loe s la dimensión de \emph{Información y Comunicación} del Modelo Integrado de Planeación y Gestión - MIPG en donde se orienta a las entidades públicas a organizar y administrar de una manera eficiente la información bajo custodia institucional.
 

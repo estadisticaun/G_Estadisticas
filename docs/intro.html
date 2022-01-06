@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>Capítulo 1 Introducción | Estadísticas Oficiales Institucionales</title>
   <meta name="description" content="Capítulo 1 Introducción | Estadísticas Oficiales Institucionales" />
-  <meta name="generator" content="bookdown 0.22.16 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.24 and GitBook 2.6.7" />
 
   <meta property="og:title" content="Capítulo 1 Introducción | Estadísticas Oficiales Institucionales" />
   <meta property="og:type" content="book" />
@@ -24,7 +24,7 @@
 <meta name="author" content="Dirección Nacional de Planeación y Estadística   Oficina Nacional de Estadística" />
 
 
-<meta name="date" content="2021-08-16" />
+<meta name="date" content="2022-01-06" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -33,8 +33,9 @@
   
 <link rel="prev" href="index.html"/>
 <link rel="next" href="campo-de-aplicación.html"/>
-<script src="libs/header-attrs-2.8/header-attrs.js"></script>
-<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<script src="libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
@@ -50,13 +51,33 @@
 
 
 
-
-<script src="libs/accessible-code-block-0.0.1/empty-anchor.js"></script>
 <link href="libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
 <script src="libs/anchor-sections-1.0.1/anchor-sections.js"></script>
 
 
 
+<style type="text/css">
+/* Used with Pandoc 2.11+ new --citeproc when CSL is used */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}
+</style>
 
 <link rel="stylesheet" href="style.css" type="text/css" />
 </head>
@@ -112,7 +133,7 @@
             <section class="normal" id="section-">
 <div id="intro" class="section level1" number="1">
 <h1><span class="header-section-number">Capítulo 1</span> <strong>Introducción</strong></h1>
-<p>Las sosiedades modernas, a diferenencia de sus antepasados, sufren un exceso de información y sin embargo requieren cada vez más de esta para convivir de manera eficiente. Este fenómeno, no sólo atañe a los individuos sino que cada vez y, con mayor frecuencia, se traslada a sus instituciones.</p>
+<p>Las sociedades modernas, a diferenencia de las antepasadas, sufren un exceso de información y sin embargo requieren cada vez más de esta para convivir de manera eficiente. Este fenómeno, no sólo atañe a los individuos sino que cada vez y, con mayor frecuencia, se traslada a sus instituciones.</p>
 <p>La gestión de la información a nivel de las entidades públicas ha adquirido un papel protagónico durante los últimos años. Muestra de ello, por ejemplo, loe s la dimensión de <em>Información y Comunicación</em> del Modelo Integrado de Planeación y Gestión - MIPG en donde se orienta a las entidades públicas a organizar y administrar de una manera eficiente la información bajo custodia institucional.</p>
 <p>La guía que se presenta a continuación es un primer intento a nivel institucional por disponer de un documento que fije las directrices y dé las orientaciones requeridas a nivel de la Universidad para la consolidación, construcción y producción de estadísticas oficiciales. para ello, se propone que este ejercicio debe cumplir, como mínimo, los siguientes pasos metodológicos: <em>caracterización de usuarios, cumplimiento de requisitos de una estadística, caracterización de registros administrativos, procesamiento de datos, comunicación de resultados y cultura estadística</em>.</p>
 
@@ -127,7 +148,6 @@
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
-<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
 <script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
@@ -168,7 +188,7 @@ gitbook.start({
 },
 "download": ["G_Estadisticas.pdf", "G_Estadisticas.epub"],
 "search": {
-"engine": "lunr",
+"engine": "fuse",
 "options": null
 },
 "toc": {
